@@ -6,6 +6,8 @@ It is a real-time camera recognition, using a basic model and a smarter one to i
 
 If you want to use another model try these: https://developer.apple.com/machine-learning/build-run-models/ 
 Or maybe try to train yours on your own ;)
+*Other models
+https://github.com/likedan/Awesome-CoreML-Models
 
 # Bugs :bug:
 - Report to me by tiago_fernandes89@hotmail.com
